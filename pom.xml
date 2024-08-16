@@ -11,6 +11,7 @@
     <modules>
         <module>Task 1 __Multiples of 3 or 5__</module>
         <module>Task 2 __Stop gninnipS My sdroW__</module>
+        <module>Task 3 __Count characters in your string__</module>
     </modules>
 
     <properties>
