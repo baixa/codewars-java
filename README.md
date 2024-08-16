@@ -1,2 +1,2 @@
 # CodeWars - Java
-![Name](https://www.codewars.com/users/baixa/badges/large)
+![Name](https://www.codewars.com/users/Baixa/badges/large)
