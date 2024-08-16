@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>codewars.java.task1</artifactId>
+    <artifactId>codewars.java.task2</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

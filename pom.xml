@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Task 1 __Multiples of 3 or 5__</module>
+        <module>Task 2 __Stop gninnipS My sdroW__</module>
     </modules>
 
     <properties>
@@ -17,5 +18,17 @@
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.11.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
 
 </project>
