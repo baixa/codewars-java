@@ -1,4 +1,4 @@
-# Count characters in your string
+# Valid Braces
 
 *6 kyu*
 
