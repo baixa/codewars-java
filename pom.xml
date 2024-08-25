@@ -17,6 +17,7 @@
         <module>Task 6 __Take a Ten Minutes Walk__</module>
         <module>Task 7 __RGB To Hex Conversion__</module>
         <module>Task 8 __Make the Deadfish Swim__</module>
+        <module>Task 9 __Simple Pig Latin__</module>
     </modules>
 
     <properties>
